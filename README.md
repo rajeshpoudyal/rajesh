@@ -1,2 +1,3 @@
 # rajesh
-this is my repository
+This is my  first Git Repository.
+
